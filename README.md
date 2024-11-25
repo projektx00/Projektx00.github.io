@@ -63,9 +63,6 @@
         <a class="map-link" href="https://www.htwsaar.de/wiwi/campusleben/campusvorstellung/dateien/orientierungsplan_crb_072017.pdf" target="_blank">
             Campusplan als PDF anzeigen
         </a>
-        <div class="campus-map">
-            <img src="https://www.htwsaar.de/wiwi/campusleben/campusvorstellung/dateien/orientierungsplan_crb_072017.pdf" alt="Campus Orientierungsplan">
-        </div>
     </div>
 
     <div class="section">
