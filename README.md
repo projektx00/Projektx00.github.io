@@ -35,7 +35,6 @@
 </head>
 <body>
     <h1>Willkommen am Campus Rotenbühl - htw saar</h1>
-<body>
     <iframe width="560" height="315" 
         src="https://www.youtube.com/embed/zLOsksQYCkc" 
         title="YouTube video player" 
@@ -43,7 +42,6 @@
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
         allowfullscreen>
     </iframe>
-</body>
     <div class="section">
         <h2>Wichtige Bereiche:</h2>
         <ul>
