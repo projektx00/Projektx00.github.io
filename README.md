@@ -46,12 +46,7 @@
 </body>
     
     <p>Nutzen Sie diesen Wegweiser, um sich auf dem Campus zurechtzufinden.</p>
-          <iframe 
-        src="orientierungsplan_crb_072017.pdf" 
-        width="100%" 
-        height="600" 
-        frameborder="0">
-      </iframe>
+          <iframe src="assets/orientierungsplan_crb_072017.pdf" width="100%" height="600"></iframe>
     <div class="section">
         <h2>Wichtige Bereiche:</h2>
         <ul>
