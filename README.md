@@ -90,9 +90,9 @@
         </ul>
     </div>
     <div class="content">
-        <section id="Gebäude A">
+        <section id="gebäudea">
             <h2>Bibliothek/h2>
-            <p>Willkommen ain der Bib!</p>
+            <p>Willkommen in der Bib!</p>
         </section>
     <div class="section">
         <h2>Campusplan</h2>
