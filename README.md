@@ -79,14 +79,14 @@
     <div class="section">
         <h2>Wichtige Bereiche:</h2>
         <ul>
-            <li><strong>Gebäude A:</strong>Bibliothek </li>
-            <li><strong>Gebäude B:</strong>Sekretariate </li>
-            <li><strong>Gebäude C:</strong>Auditorium </li>
-            <li><strong>Gebäude D:</strong>Senatsaal </li>
-            <li><strong>Gebäude E:</strong>IT-Labore </li>
-            <li><strong>Gebäude F:</strong>ESG </li>
+            <li><strong>Gebäude A:</strong> Bibliothek </li>
+            <li><strong>Gebäude B:</strong> Sekretariate </li>
+            <li><strong>Gebäude C:</strong> Auditorium </li>
+            <li><strong>Gebäude D:</strong> Senatsaal </li>
+            <li><strong>Gebäude E:</strong> IT-Labore </li>
+            <li><strong>Gebäude F:</strong> ESG </li>
             <li><strong>Mensa:</strong> Mittagessen und Snacks</li>
-            <li><strong>Innenhof & Aussenterrasse:</strong> </li>
+            <li><strong>Innenhof & Aussenterrasse</strong> </li>
         </ul>
     </div>
     <div class="section">
