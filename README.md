@@ -44,9 +44,6 @@
         allowfullscreen>
     </iframe>
 </body>
-    
-    <p>Nutzen Sie diesen Wegweiser, um sich auf dem Campus zurechtzufinden.</p>
-          <iframe src="issues/Gebäudeplan" width="100%" height="600"></iframe>
     <div class="section">
         <h2>Wichtige Bereiche:</h2>
         <ul>
@@ -56,7 +53,6 @@
             <li><strong>Parkplätze:</strong> Direkt vor Gebäude C</li>
         </ul>
     </div>
-
     <div class="section">
         <h2>Campusplan</h2>
         <p>Hier finden Sie den vollständigen Orientierungsplan:</p>
@@ -64,19 +60,6 @@
             Campusplan als PDF anzeigen
         </a>
     </div>
-
-    <div class="section">
-        <h2>Kontakt</h2>
-        <p><strong>Adresse:</strong> Waldhausweg 14, 66123 Saarbrücken</p>
-        <p><strong>Telefon:</strong> +49 681 58 67 0</p>
-        <p><strong>E-Mail:</strong> info@htwsaar.de</p>
-    </div>
-
-    <footer>
-        <p>&copy; 2024 htw saar - Campus Rotenbühl. Alle Rechte vorbehalten.</p>
-    </footer>
-</body>
-</html>
 
 <section id="standort">
   <h2>Standort HTW Saar Campus Rotenbühl</h2>
@@ -88,3 +71,11 @@
     allowfullscreen="" 
     loading="lazy">
   </iframe>
+      <div class="section">
+        <h2>Kontakt</h2>
+        <p><strong>Adresse:</strong> Waldhausweg 14, 66123 Saarbrücken</p>
+        <p><strong>Telefon:</strong> +49 681 58 67 0</p>
+        <p><strong>E-Mail:</strong> info@htwsaar.de</p>
+    </div>
+    </body>
+</html>
