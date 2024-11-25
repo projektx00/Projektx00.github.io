@@ -91,8 +91,8 @@
     </div>
     <div class="content">
         <section id="gebäudea">
-            <h2>Bibliothek/h2>
-            <p>Willkommen in der Bib!</p>
+            <h2>Bibliothek</h2>
+            <p>Im Kellergeschoss des Gebäude A ist die Bibliothek zu finden.</p>
         </section>
     <div class="section">
         <h2>Campusplan</h2>
