@@ -1,10 +1,3 @@
-/ (Root-Verzeichnis)
-├── index.html   // Hauptseite
-├── style.css    // Stile der Seite
-├── script.js    // Interaktive Funktionen
-├── map/         // Optionaler Ordner für Campuspläne
-└── assets/      // "orientierungsplan_crb_072017.pdf"
-
 <html lang="de">
 <head>
     <meta charset="UTF-8">
