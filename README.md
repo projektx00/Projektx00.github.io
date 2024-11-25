@@ -55,16 +55,15 @@
 </head>
 <body>
     <header>
-        <h1>Willkommen auf meiner Website</h1>
+        <h1>Willkommen am Campus Rotenbühl - htw saar</h1>
     </header>
     <nav class="navbar">
         <a href="#gebäudea">Gebäude A</a>
-        <a href="#about">Über Uns</a>
-        <a href="#services">Services</a>
-        <a href="#portfolio">Portfolio</a>
-        <a href="#team">Team</a>
-        <a href="#contact">Kontakt</a>
-        <a href="#blog">Blog</a>
+        <a href="#gebäudeb">Gebäude B</a>
+        <a href="#gebäudec">Gebäude C</a>
+        <a href="#gebäuded">Gebäude D</a>
+        <a href="#gebäudee">Gebäude E</a>
+        <a href="#gebäudef">Gebäude F</a>
     </nav>
 <html lang="de">
 <body>
@@ -91,8 +90,10 @@
     </div>
     <div class="content">
         <section id="gebäudea">
-            <h2>Bibliothek</h2>
-            <p>Im Kellergeschoss des Gebäude A ist die Bibliothek zu finden.</p>
+            <h2>Gebäude A</h2>
+            <p>KG: Bibliothek
+                   Praxisreferat
+                   Fachschaft</p>
         </section>
     <div class="section">
         <h2>Campusplan</h2>
