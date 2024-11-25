@@ -46,7 +46,7 @@
 </body>
     
     <p>Nutzen Sie diesen Wegweiser, um sich auf dem Campus zurechtzufinden.</p>
-          <iframe src="assets/2" width="100%" height="600"></iframe>
+          <iframe src="issuess/2" width="100%" height="600"></iframe>
     <div class="section">
         <h2>Wichtige Bereiche:</h2>
         <ul>
