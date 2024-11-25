@@ -58,7 +58,7 @@
         <h1>Willkommen auf meiner Website</h1>
     </header>
     <nav class="navbar">
-        <a href="#home">Home</a>
+        <a href="#gebäudea">Gebäude A</a>
         <a href="#about">Über Uns</a>
         <a href="#services">Services</a>
         <a href="#portfolio">Portfolio</a>
@@ -89,6 +89,11 @@
             <li><strong>Innenhof & Aussenterrasse</strong> </li>
         </ul>
     </div>
+    <div class="content">
+        <section id="Gebäude A">
+            <h2>Bibliothek/h2>
+            <p>Willkommen ain der Bib!</p>
+        </section>
     <div class="section">
         <h2>Campusplan</h2>
         <p>Hier finden Sie den vollständigen Orientierungsplan:</p>
@@ -113,5 +118,3 @@
         <p><strong>Telefon:</strong> +49 681 58 67 0</p>
         <p><strong>E-Mail:</strong> info@htwsaar.de</p>
     </div>
-</body>
-</html>
