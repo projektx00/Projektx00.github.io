@@ -1,115 +1,93 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>HTW Saar Campus Orientierung</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video einbetten</title>
 </head>
 <body>
-  <header>
-    <h1>Willkommen am HTW Saar Campus Rotenbühl</h1>
-    <nav>
-      <ul>
-        <li><a href="#mensa">Mensa</a></li>
-        <li><a href="#drucker">Druckerräume</a></li>
-        <li><a href="#kontakt">Kontakt & Termine</a></li>
-      </ul>
-    </nav>
-  </header>
-
-  <main>
-    <section id="mensa">
-      <h2>Mensa</h2>
-      <p>Die Mensa befindet sich im Kellergeschoss (KG). Sie bietet eine Außenterrasse und ist über den Eingang Ost zugänglich.</p>
-    </section>
-
-    <section id="drucker">
-      <h2>Druckerräume</h2>
-      <p>Druckerräume finden Sie in Raum A-K-08 und B-1-15. Weitere Informationen sind im IT-Service verfügbar.</p>
-    </section>
-
-    <section id="map">
-      <h2>Kartenansicht</h2>
-      <img src="assets/campus-plan.png" alt="Campus Rotenbühl Plan">
-    </section>
-
-    <section id="kontakt">
-      <h2>Kontakt & Termine</h2>
-      <p>Buchen Sie einen Termin mit uns über unser Online-Formular:</p>
-      <div id="calendly">
-        <iframe 
-          src="https://calendly.com/your-calendly-link" 
-          width="100%" 
-          height="600" 
-          frameborder="0">
-        </iframe>
-      </div>
-    </section>
-  </main>
-
-  <footer>
-    <p>&copy; 2024 HTW Saar - Campus Rotenbühl Orientierung</p>
-  </footer>
-  
-  <script src="script.js"></script>
+    <h1>Mein eingebettetes Video</h1>
+    <p>Hier ist ein Video, das direkt auf dieser Website abgespielt werden kann:</p>
+    <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/zLOsksQYCkc" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+    </iframe>
 </body>
 </html>
 
-body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  margin: 0;
-  padding: 0;
-  color: #333;
-  background-color: #f4f4f4;
-}
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Campus-Wegweiser - htw saar</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1 {
+            color: #0056a4;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .map-link {
+            text-decoration: none;
+            color: #0056a4;
+            font-weight: bold;
+        }
+        .map-link:hover {
+            text-decoration: underline;
+        }
+        .campus-map img {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid #ddd;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Willkommen am Campus Rotenbühl - htw saar</h1>
+    <p>Nutzen Sie diesen Wegweiser, um sich auf dem Campus zurechtzufinden.</p>
 
-header {
-  background: #333;
-  color: #fff;
-  padding: 1rem 0;
-  text-align: center;
-}
+    <div class="section">
+        <h2>Wichtige Bereiche:</h2>
+        <ul>
+            <li><strong>Gebäude A:</strong> Verwaltung und Hörsäle</li>
+            <li><strong>Gebäude B:</strong> Bibliothek und IT-Labore</li>
+            <li><strong>Mensa:</strong> Mittagessen und Snacks</li>
+            <li><strong>Parkplätze:</strong> Direkt vor Gebäude C</li>
+        </ul>
+    </div>
 
-header h1 {
-  margin: 0;
-}
+    <div class="section">
+        <h2>Campusplan</h2>
+        <p>Hier finden Sie den vollständigen Orientierungsplan:</p>
+        <a class="map-link" href="https://www.htwsaar.de/wiwi/campusleben/campusvorstellung/dateien/orientierungsplan_crb_072017.pdf" target="_blank">
+            Campusplan als PDF anzeigen
+        </a>
+        <div class="campus-map">
+            <img src="https://www.htwsaar.de/wiwi/campusleben/campusvorstellung/dateien/orientierungsplan_crb_072017.pdf" alt="Campus Orientierungsplan">
+        </div>
+    </div>
 
-nav ul {
-  display: flex;
-  justify-content: center;
-  list-style: none;
-  padding: 0;
-}
+    <div class="section">
+        <h2>Kontakt</h2>
+        <p><strong>Adresse:</strong> Waldhausweg 14, 66123 Saarbrücken</p>
+        <p><strong>Telefon:</strong> +49 681 58 67 0</p>
+        <p><strong>E-Mail:</strong> info@htwsaar.de</p>
+    </div>
 
-nav ul li {
-  margin: 0 15px;
-}
-
-nav ul li a {
-  color: #fff;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-main {
-  padding: 20px;
-}
-
-main section {
-  margin: 20px 0;
-  background: #fff;
-  padding: 20px;
-  border-radius: 8px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-footer {
-  text-align: center;
-  padding: 10px;
-  background: #333;
-  color: #fff;
-}
-
-
+    <footer>
+        <p>&copy; 2024 htw saar - Campus Rotenbühl. Alle Rechte vorbehalten.</p>
+    </footer>
+</body>
+</html>
