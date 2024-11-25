@@ -107,11 +107,3 @@
     allowfullscreen="" 
     loading="lazy">
   </iframe>
-  <p>
-    <a href="https://www.google.de/maps/place/Hochschule+f%C3%BCr+Technik+und+Wirtschaft+Campus+Rotenb%C3%BChl+-+WIWI/@49.2434243,7.0153065,17z/data=!3m1!4b1!4m6!3m5!1s0x4795b699fbe34679:0x14f2a1681f6f62b1!8m2!3d49.2434243!4d7.0153065!16s%2Fg%2F12hsrwkm9?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D" target="_blank">
-      Google Maps öffnen
-    </a>
-  </p>
-</section>
-
-
