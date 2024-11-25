@@ -97,12 +97,21 @@
   <iframe src="issues/orientierungsplan_crb_072017.pdf" width="100%" height="600"></iframe>
 </section>
 
-<iframe 
-  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2689.5484301409584!2d7.0033441!3d49.2321468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4795c6ff1bc1f7e9%3A0x1234567890abcdef!2sHTW+Saar+-+Campus+Rotenb%C3%BChl!5e0!3m2!1sen!2sde!4v1605900734567!5m2!1sen!2sde" 
-  width="600" 
-  height="450" 
-  style="border:0;" 
-  allowfullscreen="" 
-  loading="lazy">
-</iframe>
+<section id="standort">
+  <h2>Standort HTW Saar Campus Rotenbühl</h2>
+  <iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2689.329495621813!2d7.0131173!3d49.2434243!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4795b699fbe34679%3A0x14f2a1681f6f62b1!2sHochschule%20f%C3%BCr%20Technik%20und%20Wirtschaft%20Campus%20Rotenb%C3%BChl%20-%20WIWI!5e0!3m2!1sen!2sde!4v1694190735111!5m2!1sen!2sde" 
+    width="100%" 
+    height="450" 
+    style="border:0;" 
+    allowfullscreen="" 
+    loading="lazy">
+  </iframe>
+  <p>
+    <a href="https://www.google.de/maps/place/Hochschule+f%C3%BCr+Technik+und+Wirtschaft+Campus+Rotenb%C3%BChl+-+WIWI/@49.2434243,7.0153065,17z/data=!3m1!4b1!4m6!3m5!1s0x4795b699fbe34679:0x14f2a1681f6f62b1!8m2!3d49.2434243!4d7.0153065!16s%2Fg%2F12hsrwkm9?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D" target="_blank">
+      Google Maps öffnen
+    </a>
+  </p>
+</section>
+
 
