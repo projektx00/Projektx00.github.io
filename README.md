@@ -81,22 +81,6 @@
 </body>
 </html>
 
-<header>
-  <h1>Willkommen auf dem Campus</h1>
-  <nav>
-    <ul>
-      <li><a href="#mensa">Mensa</a></li>
-      <li><a href="#drucker">Druckerräume</a></li>
-      <li><a href="#map">Interaktive Karte</a></li>
-    </ul>
-  </nav>
-</header>
-
-<section id="map">
-  <h2>Interaktive Karte</h2>
-  <iframe src="issues/orientierungsplan_crb_072017.pdf" width="100%" height="600"></iframe>
-</section>
-
 <section id="standort">
   <h2>Standort HTW Saar Campus Rotenbühl</h2>
   <iframe 
