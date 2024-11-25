@@ -91,20 +91,20 @@
     <div class="content">
         <section id="gebäudea">
             <h2>Gebäude A</h2>
-            <p>KG: Bibliothek</p>
+            <p><strong>KG:</strong> Bibliothek</p>
             <p>Praxisreferat</p>
             <p>Fachschaft</p>
             <p>International Office</p>
-            <p>EG: IT-Service</p>
+            <p><strong>EG:</strong> IT-Service</p>
         </section>
            <section id="gebäudeb">
             <h2>Gebäude B</h2>
-            <p>EG: Empfang</p>
+            <p><strong>EG:</strong> Empfang</p>
             <p>Konferenzraum</p>
             <p>Info-Corner</p>
-            <p>OG1: Sekretariat</p>
+            <p><strong>OG1:</strong> Sekretariat</p>
             <p>Besprechungsraum</p>
-            <p>OG2: IT-Labor</p>
+            <p><strong>OG2:</strong> IT-Labor</p>
         </section>
     <div class="section">
         <h2>Campusplan</h2>
