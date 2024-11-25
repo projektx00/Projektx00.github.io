@@ -1,3 +1,10 @@
+/ (Root-Verzeichnis)
+├── index.html   // Hauptseite
+├── style.css    // Stile der Seite
+├── script.js    // Interaktive Funktionen
+├── map/         // Optionaler Ordner für Campuspläne
+└── assets/      // "orientierungsplan_crb_072017.pdf"
+
 <html lang="de">
 <head>
     <meta charset="UTF-8">
@@ -46,6 +53,12 @@
 </body>
     
     <p>Nutzen Sie diesen Wegweiser, um sich auf dem Campus zurechtzufinden.</p>
+          <iframe 
+        src="orientierungsplan_crb_072017.pdf" 
+        width="100%" 
+        height="600" 
+        frameborder="0">
+      </iframe>
     <div class="section">
         <h2>Wichtige Bereiche:</h2>
         <ul>
