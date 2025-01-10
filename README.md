@@ -245,6 +245,7 @@
                 loading="lazy">
             </iframe>
         </section>
+        <br><a href = "https://www.calendly.com/princebhela/30min">Buchen Sie einen Termin</a></br>
         <div class="section">
             <h2>Campusplan</h2>
             <p>Hier finden Sie den vollständigen Orientierungsplan:</p>
