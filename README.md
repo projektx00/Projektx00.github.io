@@ -245,7 +245,6 @@
                 loading="lazy">
             </iframe>
         </section>
-        <br><a href = "https://www.calendly.com/princebhela/30min">Buchen Sie einen Termin</a></br>
         <div class="section">
             <h2>Campusplan</h2>
             <p>Hier finden Sie den vollständigen Orientierungsplan:</p>
@@ -258,6 +257,7 @@
             <p><strong>Adresse:</strong> Waldhausweg 14, 66123 Saarbrücken</p>
             <p><strong>Telefon:</strong> +49 681 58 67 512</p>
             <p><strong>E-Mail:</strong> info@htwsaar.de</p>
+            <p><a href = "https://www.calendly.com/princebhela/30min">Buchen Sie einen Termin</a></p>
         </section>
     </div>
     <footer>
