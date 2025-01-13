@@ -155,8 +155,6 @@
         <h1>Willkommen am Campus Rotenbühl - htw saar</h1>
     </header>
     <nav class="navbar">
-        <a href="#gebäudea">Gebäude A</a>
-        <a href="#gebäudeb">Gebäude B</a>
         <a href="#faq">FAQ</a>
         <a href="#standort">Standort</a>
         <a href="#kontakt">Kontakt</a>
@@ -182,23 +180,6 @@
         </ul>
     </div>
     <div class="content">
-        <section id="gebäudea">
-            <h2>Gebäude A</h2>
-            <p><strong>KG:</strong> Bibliothek</p>
-            <p>Praxisreferat</p>
-            <p>Fachschaft</p>
-            <p>International Office</p>
-            <p><strong>EG:</strong> IT-Service</p>
-        </section>
-        <section id="gebäudeb">
-            <h2>Gebäude B</h2>
-            <p><strong>EG:</strong> Empfang</p>
-            <p>Konferenzraum</p>
-            <p>Info-Corner</p>
-            <p><strong>OG1:</strong> Sekretariat</p>
-            <p>Besprechungsraum</p>
-            <p><strong>OG2:</strong> IT-Labor</p>
-        </section>
         <section id="faq">
             <div class="faq-section">
                 <div class="faq-header">
